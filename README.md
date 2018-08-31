@@ -1,7 +1,5 @@
 # HomeCreditDefaultRisk
 
-标签： Readme
-
 ---
 
 跟Songyue第一次参加kaggle的比赛，在public leaderboard的auc分数是0.806,排名是55名，在private leaderboard的auc分数是0.798,排名是98名。
